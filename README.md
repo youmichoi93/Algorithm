@@ -15,5 +15,7 @@
 
 (https://user-images.githubusercontent.com/78770263/111769952-2c7dca00-88ed-11eb-9c8f-730d3978bc00.jpg)  [순서도]
 
+(https://user-images.githubusercontent.com/78770263/112960970-e68ff400-917f-11eb-8cd5-7185c3b0d8da.jpg) [소수판별]
 
+(https://user-images.githubusercontent.com/78770263/112961035-f6a7d380-917f-11eb-8d17-401636c283cd.jpg) [소수판별순서도]
 
