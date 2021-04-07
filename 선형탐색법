@@ -1,0 +1,15 @@
+def Lsearch(x,y):
+  i = 0
+  for i in range(len(x)) :
+    if x[i] == y:
+      return "%d번째 요소 일치" %i
+
+    
+  return "찾지 못 했습니다"
+
+
+
+x = [4,2,3,5,1]
+y = 5
+z = Lsearch(x,y)
+print(z)
