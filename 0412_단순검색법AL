@@ -1,0 +1,13 @@
+def SSort(arr):
+  for i in range(len(arr)):
+    indexMin = i
+    for j in range(i+1, len(arr)):
+      if arr[j] < arr[indexMin]:
+        indexMin = j
+  arr[i], arr[indexMin] = arr[indexMin], arr[i]
+
+  return arr
+array = [12,13,11,14,10]
+print(SSort(array))
+
+  
